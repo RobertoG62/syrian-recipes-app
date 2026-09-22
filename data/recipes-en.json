@@ -1,0 +1,3389 @@
+{
+    "recipes": [
+        {
+            "id": "kibbeh-halabiya",
+            "title": "Aleppo Kibbeh",
+            "originalName": "كبة حلبية",
+            "description": "A bulgur torpedo pointed at both ends, filled with meat and pine nuts — the shell thin as paper.",
+            "category": "Aleppo Kibbeh",
+            "kosherType": "Meat",
+            "image": "images/Kibbeh_Halabiya.jpg",
+            "prepTime": 60,
+            "cookTime": 20,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "fine bulgur",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground lamb for the shell",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "ground lamb for the filling",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "pine nuts",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "Aleppo baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "3",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Soak the bulgur 20 minutes in cold water and squeeze bone dry — any moisture left bursts the kibbeh in the oil.",
+                "Process the bulgur, 300 g of meat, flour and salt into a sticky, smooth paste. Chill 30 minutes.",
+                "Fry the onion, add the meat, baharat and pine nuts and cook 10 minutes. Cool completely.",
+                "Wet your hands, take a ball, and hollow it deep and very thin with a finger — in Aleppo a cook is judged on shell thickness.",
+                "Fill, seal, and point both ends into a torpedo.",
+                "Fry at 170°C for 6–7 minutes to a deep brown. Serve hot. Meat."
+            ],
+            "tags": [
+                "kibbeh",
+                "aleppo",
+                "fried",
+                "meat"
+            ]
+        },
+        {
+            "id": "kibbeh-bi-saniyeh",
+            "title": "Kibbeh bi-Saniyeh",
+            "originalName": "كبة بصينية",
+            "description": "Two bulgur layers with filling between, baked in a tray and cut into diamonds.",
+            "category": "Aleppo Kibbeh",
+            "kosherType": "Meat",
+            "image": "images/Kibbeh_Bi_Saniyeh.jpg",
+            "prepTime": 50,
+            "cookTime": 50,
+            "servings": 10,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "fine bulgur",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground meat for the shell",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "ground meat for the filling",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "pine nuts",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "Aleppo baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Make the bulgur paste as for Aleppo kibbeh and divide in two.",
+                "Fry the onion, add the meat, baharat, pine nuts and pomegranate molasses and cook 10 minutes. Cool.",
+                "Oil a tin and press half the paste into a thin, even layer, keeping your hands wet throughout.",
+                "Spread the filling evenly.",
+                "Press the second half out on baking paper, invert it over the filling and seal the edges.",
+                "Score diamonds with a wet knife, drizzle olive oil and bake at 200°C for 45 minutes. Meat."
+            ],
+            "tags": [
+                "kibbeh",
+                "tray",
+                "baked",
+                "meat"
+            ]
+        },
+        {
+            "id": "kibbeh-safarjaliyeh",
+            "title": "Kibbeh with Quince",
+            "originalName": "كبة سفرجلية",
+            "description": "Small kibbeh in a quince and pomegranate braise — a winter dish with no equivalent anywhere.",
+            "category": "Aleppo Kibbeh",
+            "kosherType": "Meat",
+            "image": "images/Kibbeh_Safarjaliyeh.jpg",
+            "prepTime": 60,
+            "cookTime": 70,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "fine bulgur",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground meat",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "quinces, sliced",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "6",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Make walnut-sized kibbeh with meat filling and fry them lightly until golden.",
+                "Peel the quinces and cut thick slices. Drop them straight into lemon water — quince browns within minutes.",
+                "Fry the onion and garlic, add the quince and sugar and cook 10 minutes.",
+                "Add water and pomegranate molasses and cook 25 minutes until the quince softens but holds its shape.",
+                "Add the fried kibbeh and cook another 25 minutes without stirring.",
+                "Scatter dried mint in the last two minutes. Meat."
+            ],
+            "tags": [
+                "kibbeh",
+                "quince",
+                "pomegranate",
+                "meat"
+            ]
+        },
+        {
+            "id": "kibbeh-mabrouma",
+            "title": "Kibbeh Mabrouma",
+            "originalName": "كبة مبرومة",
+            "description": "A long bulgur roll coiled into a spiral in the tin — hard to make, and impossible to hide a shortcut in.",
+            "category": "Aleppo Kibbeh",
+            "kosherType": "Meat",
+            "image": "images/Kibbeh_Mabrouma.jpg",
+            "prepTime": 70,
+            "cookTime": 45,
+            "servings": 10,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "fine bulgur",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground meat for the shell",
+                    "quantity": "250",
+                    "unit": "g"
+                },
+                {
+                    "name": "ground meat for the filling",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "walnuts, chopped",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Aleppo baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Make the bulgur paste and chill 30 minutes — cold, it stretches without tearing.",
+                "Fry the onion, add the meat, walnuts, baharat and pomegranate molasses and cook 10 minutes. Cool.",
+                "Roll the paste between two sheets of baking paper into a long thin strip 12 cm wide.",
+                "Lay the filling along one edge and roll into a thin log using the paper.",
+                "Coil the log into a spiral in an oiled round tin, from the centre outwards.",
+                "Drizzle olive oil and bake at 200°C for 40–45 minutes until golden. Meat."
+            ],
+            "tags": [
+                "kibbeh",
+                "mabrouma",
+                "spiral",
+                "meat"
+            ]
+        },
+        {
+            "id": "lahm-bajine",
+            "title": "Lahm bi-Ajine",
+            "originalName": "لحم بعجين",
+            "description": "Thin dough rounds under a film of meat, pomegranate molasses and Aleppo pepper — small and sour.",
+            "category": "Aleppo Kibbeh",
+            "kosherType": "Meat",
+            "image": "images/Lahm_Bajine.jpg",
+            "prepTime": 90,
+            "cookTime": 15,
+            "servings": 20,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "finely ground lamb",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "Aleppo pepper flakes",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "onions, grated and squeezed",
+                    "quantity": "2",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Froth the yeast and water 10 minutes, add flour, oil and salt and knead 8 minutes. Rise 1 hour.",
+                "Mix the meat, well-squeezed onion, grated tomato, pomegranate molasses and Aleppo pepper.",
+                "Drain the mixture in a sieve for 20 minutes. Wet topping will not cling to the dough and burns in the oven.",
+                "Divide the dough into small balls and roll thin 10 cm rounds.",
+                "Spread a very thin film of meat right to the edge.",
+                "Bake at 250°C for 8–10 minutes only, on a preheated tray. Meat."
+            ],
+            "tags": [
+                "lahm bi-ajine",
+                "pomegranate",
+                "aleppo",
+                "meat"
+            ]
+        },
+        {
+            "id": "burghul-bi-dfeen",
+            "title": "Burghul bi-Dfeen",
+            "originalName": "برغل بدفين",
+            "description": "Coarse bulgur, chickpeas and meat in one pot — the home food you make when there are no guests.",
+            "category": "Aleppo Kibbeh",
+            "kosherType": "Meat",
+            "image": "images/Burghul_Bi_Dfeen.jpg",
+            "prepTime": 25,
+            "cookTime": 120,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "coarse bulgur",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "lamb, cubed",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "dried chickpeas, soaked",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "Aleppo baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "boiling water",
+                    "quantity": "5",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Sear the lamb in olive oil, add the onion and fry 12 minutes.",
+                "Add the soaked chickpeas, baharat, cinnamon and water and cook an hour until the chickpeas soften.",
+                "Rinse the coarse bulgur once only — repeated rinsing strips starch that is needed to bind.",
+                "Add the bulgur to the pot and stir through.",
+                "Cook covered 25 minutes at the lowest heat, without stirring.",
+                "Off the heat, cover with a towel and rest 15 minutes before serving. Meat."
+            ],
+            "tags": [
+                "bulgur",
+                "chickpeas",
+                "lamb",
+                "meat"
+            ]
+        },
+        {
+            "id": "kibbeh-batata",
+            "title": "Potato Kibbeh",
+            "originalName": "كبة بطاطا",
+            "description": "The parve version — potato and bulgur filled with walnuts, pine nuts and raisins.",
+            "category": "Aleppo Kibbeh",
+            "kosherType": "Parve",
+            "image": "images/Kibbeh_Batata.jpg",
+            "prepTime": 45,
+            "cookTime": 40,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "boiled potatoes",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "fine bulgur",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "walnuts, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pine nuts",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Soak the bulgur 20 minutes and squeeze.",
+                "Mash the potatoes hot and mix with the bulgur, salt and baharat into an even paste.",
+                "Fry the onion in olive oil 15 minutes to a deep brown — that is all the flavour here, since there is no meat.",
+                "Add the walnuts, pine nuts, raisins and pomegranate molasses and cook 5 minutes. Cool.",
+                "Press half the paste into a tin, spread the filling, and cover with a second layer.",
+                "Score diamonds, drizzle olive oil and bake at 200°C for 35 minutes. Parve."
+            ],
+            "tags": [
+                "kibbeh",
+                "potato",
+                "parve",
+                "walnuts"
+            ]
+        },
+        {
+            "id": "kibbeh-adas",
+            "title": "Lentil Kibbeh",
+            "originalName": "كبة عدس",
+            "description": "A lentil and bulgur shell with onion and sesame — a fasting dish that became a dish in its own right.",
+            "category": "Aleppo Kibbeh",
+            "kosherType": "Parve",
+            "image": "images/Kibbeh_Adas.jpg",
+            "prepTime": 40,
+            "cookTime": 35,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "red lentils",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "fine bulgur",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, thinly sliced",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "sesame seeds",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sumac",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "3",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Cook the lentils in water 20 minutes until fully collapsed.",
+                "Add the bulgur to the hot lentil water, take off the heat and cover 15 minutes — the bulgur takes it all up.",
+                "Mash to an even paste and correct the salt and cumin.",
+                "Fry the onion in olive oil 18 minutes to a deep sweet brown. Set half aside.",
+                "Mix the remaining half with toasted sesame and sumac.",
+                "Press half the paste out, spread the filling, cover, score and bake at 200°C for 30 minutes. Parve."
+            ],
+            "tags": [
+                "kibbeh",
+                "lentils",
+                "parve",
+                "fasting"
+            ]
+        },
+        {
+            "id": "kibbeh-yaqtin",
+            "title": "Pumpkin Kibbeh",
+            "originalName": "كبة يقطين",
+            "description": "An orange, sweet shell around walnut and chickpea — a colour nothing else on the plate competes with.",
+            "category": "Aleppo Kibbeh",
+            "kosherType": "Parve",
+            "image": "images/Kibbeh_Yaqtin.jpg",
+            "prepTime": 45,
+            "cookTime": 40,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "roasted pumpkin",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "fine bulgur",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "cooked chickpeas",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "walnuts, chopped",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sumac",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Roast the pumpkin at 200°C for 40 minutes and mash. Drain it in a sieve for 20 minutes — watery pumpkin will not hold a shell.",
+                "Soak the bulgur 20 minutes, squeeze, and mix with the drained pumpkin and salt.",
+                "Fry the onion, add roughly crushed chickpeas, walnuts, pomegranate molasses and sumac and cook 6 minutes.",
+                "Press half the pumpkin paste into an oiled tin.",
+                "Spread the filling and cover with a second layer.",
+                "Score, drizzle olive oil and bake at 200°C for 35 minutes. Parve."
+            ],
+            "tags": [
+                "kibbeh",
+                "pumpkin",
+                "parve",
+                "chickpeas"
+            ]
+        },
+        {
+            "id": "burghul-banadoura",
+            "title": "Bulgur with Tomato",
+            "originalName": "برغل بالبندورة",
+            "description": "Coarse bulgur with tomato and fried onion — twenty minutes, and no meat at all.",
+            "category": "Aleppo Kibbeh",
+            "kosherType": "Parve",
+            "image": "images/Burghul_Banadoura.jpg",
+            "prepTime": 15,
+            "cookTime": 30,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "coarse bulgur",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "Aleppo pepper flakes",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "boiling water",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Fry the onion in olive oil 12 minutes to a deep brown.",
+                "Add the tomato paste and Aleppo pepper and fry 3 minutes until the paste darkens.",
+                "Add the grated tomato and cook 8 minutes.",
+                "Add the bulgur and stir a minute until every grain is coated.",
+                "Add boiling water and salt, cover and cook 15 minutes at the lowest heat.",
+                "Off the heat, scatter dried mint and rest 10 minutes covered. Parve."
+            ],
+            "tags": [
+                "bulgur",
+                "tomato",
+                "parve",
+                "quick"
+            ]
+        },
+        {
+            "id": "yebra",
+            "title": "Yebra — Stuffed Vine Leaves",
+            "originalName": "يبرق",
+            "description": "Rolls as thin as a finger filled with rice and meat, in a pot with lemon and pomegranate.",
+            "category": "Stuffed Vegetables",
+            "kosherType": "Meat",
+            "image": "images/Yebra.jpg",
+            "prepTime": 90,
+            "cookTime": 90,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "vine leaves",
+                    "quantity": "60",
+                    "unit": ""
+                },
+                {
+                    "name": "short-grain rice",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground lamb",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "whole garlic cloves",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Blanch the vine leaves 2 minutes and drop into cold water.",
+                "Mix uncooked rice, meat, olive oil, baharat and salt.",
+                "Put a teaspoon at the base of each leaf, fold the sides and roll as thin as a finger — a thick yebra is considered coarse work.",
+                "Line a pot with torn leaves and tomato slices and pack the rolls in tight layers.",
+                "Tuck whole garlic cloves between the layers and pour in water, lemon and pomegranate molasses to cover.",
+                "Set a heavy plate on top and cook 80 minutes over low heat. Dried mint at the end. Meat."
+            ],
+            "tags": [
+                "yebra",
+                "vine leaves",
+                "pomegranate",
+                "meat"
+            ]
+        },
+        {
+            "id": "yalanji",
+            "title": "Yalanji — Vine Leaves in Oil",
+            "originalName": "يالنجي",
+            "description": "\"The fake\" — the same leaves without meat, filled with rice, pine nuts and raisins, and served cold.",
+            "category": "Stuffed Vegetables",
+            "kosherType": "Parve",
+            "image": "images/Yalanji.jpg",
+            "prepTime": 70,
+            "cookTime": 60,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "vine leaves",
+                    "quantity": "50",
+                    "unit": ""
+                },
+                {
+                    "name": "short-grain rice",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "pine nuts",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "2/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "The name means \"the fake\" — it imitates yebra without meat, and it is a separate dish rather than a lesser one.",
+                "Blanch the leaves 2 minutes and cool.",
+                "Fry the onion in olive oil 15 minutes to a deep brown — here the onion takes the meat's place.",
+                "Add rice, pine nuts, raisins, pomegranate molasses and salt and stir 3 minutes.",
+                "Roll thin, pack into a lined pot, and pour in water, lemon and olive oil to cover.",
+                "Cook 50 minutes and cool in the pot. Served cold. Parve."
+            ],
+            "tags": [
+                "yalanji",
+                "vine leaves",
+                "parve",
+                "cold"
+            ]
+        },
+        {
+            "id": "mahshi-kusa",
+            "title": "Stuffed Courgettes",
+            "originalName": "محشي كوسا",
+            "description": "Hollowed courgettes filled with rice and meat in a tomato and mint braise — without yogurt.",
+            "category": "Stuffed Vegetables",
+            "kosherType": "Meat",
+            "image": "images/Mahshi_Kusa.jpg",
+            "prepTime": 60,
+            "cookTime": 75,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "small courgettes",
+                    "quantity": "16",
+                    "unit": ""
+                },
+                {
+                    "name": "short-grain rice",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground meat",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "8",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Hollow the courgettes with a corer, leaving a 3–4 mm wall. Any thinner and they tear as they cook.",
+                "Mix uncooked rice, meat, baharat, salt and a little olive oil.",
+                "Fill two thirds only — the rice swells.",
+                "Lay the courgettes flat in a wide pot, in one or two layers.",
+                "Pour over the grated tomato, garlic, water and lemon to two thirds of the height.",
+                "Cook 60 minutes over low heat and scatter dried mint at the end. The traditional version is simmered in yogurt; this one is tomato. Meat."
+            ],
+            "tags": [
+                "mahshi",
+                "courgette",
+                "meat",
+                "mint"
+            ]
+        },
+        {
+            "id": "sheikh-el-mahshi",
+            "title": "Sheikh el-Mahshi",
+            "originalName": "شيخ المحشي",
+            "description": "\"The sheikh of stuffed things\" — small aubergines filled with meat and pine nuts only, with no rice at all.",
+            "category": "Stuffed Vegetables",
+            "kosherType": "Meat",
+            "image": "images/Sheikh_El_Mahshi.jpg",
+            "prepTime": 45,
+            "cookTime": 60,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "small aubergines",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "ground lamb",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "pine nuts",
+                    "quantity": "2/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Aleppo baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Deep-fry the whole aubergines until soft and drain on a rack.",
+                "Slit each one lengthwise and open it gently like a boat.",
+                "Fry the onion, add the meat, baharat and pine nuts and cook 10 minutes. No rice — that is what earns it the name.",
+                "Fill each aubergine generously and pack them into a tin touching one another.",
+                "Mix the grated tomato, pomegranate molasses and water and pour around them, not over the filling.",
+                "Bake covered at 190°C for 40 minutes, then uncovered for 15. Meat."
+            ],
+            "tags": [
+                "sheikh el-mahshi",
+                "aubergine",
+                "pine nuts",
+                "meat"
+            ]
+        },
+        {
+            "id": "mahshi-felfel",
+            "title": "Stuffed Peppers",
+            "originalName": "محشي فلفل",
+            "description": "Red peppers filled with rice and meat in a pomegranate and Aleppo-pepper braise.",
+            "category": "Stuffed Vegetables",
+            "kosherType": "Meat",
+            "image": "images/Mahshi_Felfel.jpg",
+            "prepTime": 40,
+            "cookTime": 70,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "red peppers",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "short-grain rice",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground meat",
+                    "quantity": "450",
+                    "unit": "g"
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "Aleppo pepper flakes",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Cut the tops off the peppers and clear the seeds. Keep the lids.",
+                "Fry the onion, add the meat, baharat and Aleppo pepper and cook 6 minutes, then mix with uncooked rice.",
+                "Fill two thirds and close with the lids.",
+                "Stand the peppers upright and tightly packed in a pot — that is what stops the filling spilling.",
+                "Pour in the grated tomato, pomegranate molasses and water to half their height.",
+                "Cook covered 60 minutes over low heat. Meat."
+            ],
+            "tags": [
+                "mahshi",
+                "peppers",
+                "pomegranate",
+                "meat"
+            ]
+        },
+        {
+            "id": "mahshi-batata",
+            "title": "Stuffed Potatoes",
+            "originalName": "محشي بطاطا",
+            "description": "Hollowed, fried potatoes filled with meat in a thick tomato braise.",
+            "category": "Stuffed Vegetables",
+            "kosherType": "Meat",
+            "image": "images/Mahshi_Batata.jpg",
+            "prepTime": 45,
+            "cookTime": 60,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "medium potatoes",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "ground meat",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "pine nuts",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Aleppo baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Peel and hollow the potatoes with a corer, leaving a half-centimetre wall.",
+                "Deep-fry the hollow shells for 3 minutes only — they need to set, not to cook through.",
+                "Fry the onion, add the meat, baharat and pine nuts and cook 8 minutes.",
+                "Fill each potato and pack it down firmly.",
+                "Stand them in a tin and pour the grated tomato, paste and water to half their height.",
+                "Bake at 190°C for 50 minutes until completely tender. Meat."
+            ],
+            "tags": [
+                "mahshi",
+                "potato",
+                "meat",
+                "baked"
+            ]
+        },
+        {
+            "id": "mahshi-basal",
+            "title": "Stuffed Onions",
+            "originalName": "محشي بصل",
+            "description": "Whole onion layers wrapped around meat — the stuffed dish that asks for the most patience.",
+            "category": "Stuffed Vegetables",
+            "kosherType": "Meat",
+            "image": "images/Mahshi_Basal.jpg",
+            "prepTime": 60,
+            "cookTime": 80,
+            "servings": 6,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "large onions",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "short-grain rice",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground meat",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "tamarind",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Cut a vertical slit in each onion right to the centre and blanch 12 minutes.",
+                "Separate the layers carefully. The innermost ones are too small — keep them for another pot.",
+                "Mix uncooked rice, meat, baharat and salt.",
+                "Put a spoonful in each layer and roll into a tight cylinder.",
+                "Pack into a pot lined with the onion offcuts and pour in water, pomegranate molasses, tamarind and sugar.",
+                "Set a plate on top and cook 70 minutes over low heat. Dried mint at the end. Meat."
+            ],
+            "tags": [
+                "mahshi",
+                "onion",
+                "pomegranate",
+                "meat"
+            ]
+        },
+        {
+            "id": "mahshi-batinjan-hamud",
+            "title": "Sour Stuffed Aubergines",
+            "originalName": "محشي باذنجان حامض",
+            "description": "Small aubergines in a lemon and garlic braise — sharply sour, with no tomato at all.",
+            "category": "Stuffed Vegetables",
+            "kosherType": "Meat",
+            "image": "images/Mahshi_Batinjan_Hamud.jpg",
+            "prepTime": 50,
+            "cookTime": 70,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "small aubergines",
+                    "quantity": "12",
+                    "unit": ""
+                },
+                {
+                    "name": "short-grain rice",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground meat",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "whole head of garlic",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "3",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Hollow the small aubergines, leaving a thin wall.",
+                "Mix uncooked rice, meat, baharat, salt and olive oil and fill two thirds.",
+                "Pack into a pot and scatter whole garlic cloves between them.",
+                "Pour in water and lemon juice to cover — there is no tomato here, and the lemon is all the liquid.",
+                "Set a plate on top and cook 60 minutes over low heat.",
+                "Scatter dried mint at the end. Served hot or at room temperature. Meat."
+            ],
+            "tags": [
+                "mahshi",
+                "aubergine",
+                "sour",
+                "meat"
+            ]
+        },
+        {
+            "id": "mahshi-silq",
+            "title": "Stuffed Chard Leaves",
+            "originalName": "محشي سلق",
+            "description": "Green leaves around rice, lentils and herbs — parve, and lighter than the vine leaves.",
+            "category": "Stuffed Vegetables",
+            "kosherType": "Parve",
+            "image": "images/Mahshi_Silq.jpg",
+            "prepTime": 60,
+            "cookTime": 50,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "large chard leaves",
+                    "quantity": "30",
+                    "unit": ""
+                },
+                {
+                    "name": "short-grain rice",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "cooked brown lentils",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley and dill",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sumac",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Blanch the chard leaves for 10 seconds only — they are far more delicate than vine leaves and collapse fast.",
+                "Strip the thick rib from each leaf with a knife.",
+                "Fry the onion in olive oil 15 minutes to a deep brown.",
+                "Mix with uncooked rice, cooked lentils, herbs, sumac and salt.",
+                "Roll and pack tightly into a lined pot.",
+                "Pour in water, lemon and olive oil and cook 45 minutes. Served at room temperature. Parve."
+            ],
+            "tags": [
+                "mahshi",
+                "chard",
+                "parve",
+                "lentils"
+            ]
+        },
+        {
+            "id": "ijjeh",
+            "title": "Ijjeh — Herb Omelette",
+            "originalName": "عجة",
+            "description": "A green omelette with more herb than egg — fried in small patties and served cold.",
+            "category": "Stuffed Vegetables",
+            "kosherType": "Parve",
+            "image": "images/Ijjeh.jpg",
+            "prepTime": 20,
+            "cookTime": 20,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "2",
+                    "unit": "bunches"
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "spring onions, chopped",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "flour",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Aleppo pepper flakes",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil for frying",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice to serve",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Chop the herbs very fine — ijjeh is mostly greens, and the egg only holds them together.",
+                "Beat the eggs with the flour, Aleppo pepper, salt and pepper.",
+                "Fold in all the herbs and spring onion. The mixture should look almost entirely green.",
+                "Heat olive oil in a pan over medium heat.",
+                "Drop spoonfuls in and fry 3 minutes a side until the edges crisp.",
+                "Drain and serve at room temperature with lemon. Parve."
+            ],
+            "tags": [
+                "ijjeh",
+                "herbs",
+                "parve",
+                "omelette"
+            ]
+        },
+        {
+            "id": "kebab-karaz",
+            "title": "Kebab Karaz — Cherry Kebab",
+            "originalName": "كباب كرز",
+            "description": "Small lamb meatballs in sour cherry sauce — the dish Aleppo is known for wherever it is known at all.",
+            "category": "Meats & Kebab",
+            "kosherType": "Meat",
+            "image": "images/Kebab_Karaz.jpg",
+            "prepTime": 40,
+            "cookTime": 60,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "ground lamb",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "sour cherries (fresh or frozen)",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Aleppo baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "toasted pine nuts",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pitas to serve",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Knead the lamb with baharat, salt and pepper for 4 minutes and chill 30.",
+                "Roll hazelnut-sized meatballs — small, because they finish cooking inside the sauce.",
+                "Sear them in olive oil until browned all over and lift out.",
+                "Pit the cherries and cook them with the sugar for 25 minutes until they collapse into a thick sauce.",
+                "Add the pomegranate molasses and correct — the sauce should be mainly sour, with the sweetness only balancing.",
+                "Return the meatballs and cook 20 minutes. Serve on pita with pine nuts. Meat."
+            ],
+            "tags": [
+                "kebab karaz",
+                "cherry",
+                "aleppo",
+                "meat"
+            ]
+        },
+        {
+            "id": "kebab-halabi",
+            "title": "Aleppo Kebab",
+            "originalName": "كباب حلبي",
+            "description": "Skewered kebab with Aleppo pepper and parsley — gently hot rather than burning.",
+            "category": "Meats & Kebab",
+            "kosherType": "Meat",
+            "image": "images/Kebab_Halabi.jpg",
+            "prepTime": 30,
+            "cookTime": 20,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "ground lamb",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions, grated and squeezed",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley, finely chopped",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "Aleppo pepper flakes",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "5",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "Aleppo baharat",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "tomatoes and onions to grill",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Squeeze the grated onion bone dry — wet onion drops the kebab off the skewer.",
+                "Knead the meat with everything for 5 minutes — kneading develops the protein that holds it on the skewer.",
+                "Chill an hour, covered.",
+                "Wet your hands and press the meat along flat skewers with your fingers.",
+                "Grill over glowing coals 4 minutes a side, turning once only.",
+                "Grill tomatoes and onions alongside and serve in pita. Meat."
+            ],
+            "tags": [
+                "kebab",
+                "aleppo pepper",
+                "grill",
+                "meat"
+            ]
+        },
+        {
+            "id": "riz-b-hamud",
+            "title": "Riz bi-Hamud",
+            "originalName": "رز بحامض",
+            "description": "Chicken and root vegetables in a sharp lemon broth over white rice — Aleppo's comfort food.",
+            "category": "Meats & Kebab",
+            "kosherType": "Meat",
+            "image": "images/Riz_B_Hamud.jpg",
+            "prepTime": 30,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "chicken, jointed",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "potatoes, cubed",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "carrots, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "kohlrabi, cubed",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "10",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "white rice to serve",
+                    "quantity": "3",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Boil the chicken and skim until the broth runs clear.",
+                "Cook 45 minutes, lift the chicken out and pull it into pieces.",
+                "Add the potato, carrot and kohlrabi to the broth and cook 20 minutes.",
+                "Fry the crushed garlic in olive oil for 30 seconds only and stir it in — this is the taqliya, and it is what gives the smell.",
+                "Return the chicken, add the lemon juice and cook 10 minutes.",
+                "Scatter dried mint and serve over white rice. Meat."
+            ],
+            "tags": [
+                "riz bi-hamud",
+                "chicken",
+                "lemon",
+                "meat"
+            ]
+        },
+        {
+            "id": "dajaj-dibs-rumman",
+            "title": "Chicken in Pomegranate Molasses",
+            "originalName": "دجاج بدبس الرمان",
+            "description": "Chicken roasted under a dark pomegranate glaze with walnuts — sour, glossy and nearly black.",
+            "category": "Meats & Kebab",
+            "kosherType": "Meat",
+            "image": "images/Dajaj_Dibs_Rumman.jpg",
+            "prepTime": 25,
+            "cookTime": 80,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "chicken, cut in eighths",
+                    "quantity": "1.8",
+                    "unit": "kg"
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "2/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, thickly sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "walnuts, chopped",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Aleppo pepper flakes",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "6",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Mix the pomegranate molasses, honey, garlic, Aleppo pepper, olive oil and salt into a marinade.",
+                "Rub the chicken pieces and chill at least 3 hours — the molasses needs time to go in.",
+                "Spread sliced onion across a tin and set the chicken on it.",
+                "Bake covered at 190°C for 50 minutes.",
+                "Uncover, baste from the pan juices every 10 minutes, and bake another 25.",
+                "Scatter toasted walnuts. The glaze will be very dark — that is right, not burnt. Meat."
+            ],
+            "tags": [
+                "chicken",
+                "pomegranate molasses",
+                "walnuts",
+                "meat"
+            ]
+        },
+        {
+            "id": "kebab-batinjan",
+            "title": "Kebab with Aubergine",
+            "originalName": "كباب باذنجان",
+            "description": "Lamb patties and fried aubergine alternating in a tin, in tomato and pomegranate sauce.",
+            "category": "Meats & Kebab",
+            "kosherType": "Meat",
+            "image": "images/Kebab_Batinjan.jpg",
+            "prepTime": 40,
+            "cookTime": 50,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "ground lamb",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "aubergines, sliced",
+                    "quantity": "3",
+                    "unit": "large"
+                },
+                {
+                    "name": "tomatoes, sliced",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "onion, grated and squeezed",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "Aleppo pepper flakes",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Salt the aubergine slices 30 minutes, squeeze and fry until golden. Drain.",
+                "Knead the lamb with the squeezed onion, Aleppo pepper, baharat and salt, and shape flat patties.",
+                "Sear the patties in a pan 2 minutes a side.",
+                "Arrange in a tin alternating: aubergine, patty, tomato slice, and repeat, standing on the diagonal.",
+                "Mix the tomato paste, pomegranate molasses and water and pour over.",
+                "Bake at 190°C for 40 minutes. Meat."
+            ],
+            "tags": [
+                "kebab",
+                "aubergine",
+                "baked",
+                "meat"
+            ]
+        },
+        {
+            "id": "freekeh-dajaj",
+            "title": "Freekeh with Chicken",
+            "originalName": "فريكة بدجاج",
+            "description": "Smoked green wheat with chicken, almonds and cinnamon — a smokiness that comes from the grain, not the fire.",
+            "category": "Meats & Kebab",
+            "kosherType": "Meat",
+            "image": "images/Freekeh_Dajaj.jpg",
+            "prepTime": 25,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "freekeh (green wheat)",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "chicken, jointed",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "almonds and pistachio pieces",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "allspice berries",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "boiling chicken stock",
+                    "quantity": "5",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Rinse the freekeh three times and drain — it is a roasted grain and carries a lot of burnt residue.",
+                "Simmer the chicken in water with a whole onion, cinnamon and allspice for 45 minutes. Strain and keep the broth.",
+                "Pull the chicken into large pieces.",
+                "Fry the chopped onion in olive oil 10 minutes, add the freekeh and stir 3 minutes.",
+                "Add the boiling stock and cook covered 30 minutes over low heat.",
+                "Lay the chicken over, scatter toasted nuts and rest 10 minutes covered. Meat."
+            ],
+            "tags": [
+                "freekeh",
+                "chicken",
+                "smoked",
+                "meat"
+            ]
+        },
+        {
+            "id": "kefta-tahine",
+            "title": "Kefta in Tahini",
+            "originalName": "كفتة بالطحينة",
+            "description": "Lamb patties baked under a tahini and lemon sauce — tahini is parve, so this is a meat dish and not a mixed one.",
+            "category": "Meats & Kebab",
+            "kosherType": "Meat",
+            "image": "images/Kefta_Tahine.jpg",
+            "prepTime": 30,
+            "cookTime": 45,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "ground lamb",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "onion, grated and squeezed",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "raw tahini",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "6",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "potatoes, sliced",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "pine nuts",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Knead the lamb with the squeezed onion, parsley, baharat and salt and press into a tin in an even layer.",
+                "Lay potato slices over and roast at 200°C for 20 minutes.",
+                "Whisk the raw tahini with cold water gradually — it seizes and then loosens; that is normal.",
+                "Add lemon, garlic and salt to a sauce the thickness of cream.",
+                "Tahini is parve — so this sauce over meat is not a mixture, unlike a yogurt sauce would be.",
+                "Pour the tahini over and bake another 25 minutes. Scatter pine nuts. Meat."
+            ],
+            "tags": [
+                "kefta",
+                "tahini",
+                "baked",
+                "meat"
+            ]
+        },
+        {
+            "id": "arayes",
+            "title": "Arayes",
+            "originalName": "عرايس",
+            "description": "Pita filled with a thin layer of meat and grilled until crisp, the fat soaking inward.",
+            "category": "Meats & Kebab",
+            "kosherType": "Meat",
+            "image": "images/Arayes.jpg",
+            "prepTime": 25,
+            "cookTime": 20,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "pitas",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "ground lamb",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "onion, grated and squeezed",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley, finely chopped",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "Aleppo pepper flakes",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil to brush",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Mix the lamb, squeezed onion, parsley, pomegranate molasses, Aleppo pepper, salt and pepper.",
+                "Halve each pita and open it into a pocket.",
+                "Spread a very thin layer of meat inside — too thick and the bread burns before the meat cooks.",
+                "Brush the outside with olive oil.",
+                "Grill or cook in a cast-iron pan 5 minutes a side, pressing with a spatula.",
+                "The fat soaks into the bread and crisps it. Cut into triangles. Meat."
+            ],
+            "tags": [
+                "arayes",
+                "pita",
+                "grill",
+                "meat"
+            ]
+        },
+        {
+            "id": "samak-harra",
+            "title": "Samak Harra — Spicy Fish",
+            "originalName": "سمك حرة",
+            "description": "A whole fish baked under a blanket of coriander, garlic and walnut — the Syrian coast's dish.",
+            "category": "Meats & Kebab",
+            "kosherType": "Parve",
+            "image": "images/Samak_Harra.jpg",
+            "prepTime": 30,
+            "cookTime": 45,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "whole fish (bream or bass)",
+                    "quantity": "2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "2",
+                    "unit": "bunches"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "12",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "walnuts, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "Aleppo pepper flakes",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "raw tahini",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Clean the fish and cut diagonal slashes on both sides. Salt and leave 20 minutes.",
+                "Blend the coriander, garlic, walnuts and Aleppo pepper with the olive oil into a thick green paste.",
+                "Brush half the paste over the fish and into the slashes.",
+                "Bake at 200°C for 30 minutes.",
+                "Mix the remaining paste with the tahini and lemon into a sauce.",
+                "Pour it over the fish and return for 10 minutes. Parve — served hot or cold."
+            ],
+            "tags": [
+                "fish",
+                "coriander",
+                "parve",
+                "spicy"
+            ]
+        },
+        {
+            "id": "samak-tahine",
+            "title": "Sayadieh — Fish on Onion Rice",
+            "originalName": "صيادية",
+            "description": "Fish over rice the colour of caramel from deeply fried onion — the colour is the onion, not a spice.",
+            "category": "Meats & Kebab",
+            "kosherType": "Parve",
+            "image": "images/Samak_Tahine.jpg",
+            "prepTime": 35,
+            "cookTime": 60,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white fish fillets",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "rice",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "onions, thinly sliced",
+                    "quantity": "5",
+                    "unit": "large"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "2/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "raw tahini to serve",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "toasted almonds",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Fry the onion in olive oil for 25 minutes to a very dark brown, nearly burnt. That is the whole source of colour and flavour.",
+                "Set a third of the onion aside for the top.",
+                "Add water to the onion pot, simmer 10 minutes and strain — this gives a brown stock.",
+                "Cook the rice in the brown stock with the cumin, 25 minutes covered.",
+                "Salt the fish, fry 3 minutes a side and set aside.",
+                "Lay the fish on the rice, scatter the reserved onion and almonds, and serve with tahini and lemon. Parve."
+            ],
+            "tags": [
+                "fish",
+                "rice",
+                "onion",
+                "parve"
+            ]
+        },
+        {
+            "id": "muhammara",
+            "title": "Muhammara",
+            "originalName": "محمرة",
+            "description": "Roasted red peppers, walnuts and pomegranate molasses — the dip Aleppo gave the world.",
+            "category": "Dips & Salads",
+            "kosherType": "Parve",
+            "image": "images/Muhammara.jpg",
+            "prepTime": 30,
+            "cookTime": 30,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "red peppers",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "walnuts",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dry breadcrumbs",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "Aleppo pepper flakes",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "garlic",
+                    "quantity": "3",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Char the peppers over flame or in a 250°C oven until the skin blackens through.",
+                "Cover in a bowl 15 minutes, peel and seed. Drain them 20 minutes — wet pepper makes watery muhammara.",
+                "Toast the walnuts in a dry pan 5 minutes and cool.",
+                "Pulse the walnuts, peppers, garlic, crumbs and spices in short bursts — smooth muhammara is not muhammara.",
+                "Add the pomegranate molasses and olive oil and pulse 10 seconds more.",
+                "Rest 2 hours refrigerated before serving. Parve."
+            ],
+            "tags": [
+                "muhammara",
+                "walnut",
+                "pomegranate",
+                "parve"
+            ]
+        },
+        {
+            "id": "makdous",
+            "title": "Makdous — Oil-Cured Stuffed Aubergines",
+            "originalName": "مكدوس",
+            "description": "Tiny aubergines filled with walnut and garlic, kept for months under olive oil.",
+            "category": "Dips & Salads",
+            "kosherType": "Parve",
+            "image": "images/Makdous.jpg",
+            "prepTime": 60,
+            "cookTime": 20,
+            "servings": 20,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "baby aubergines",
+                    "quantity": "2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "walnuts, chopped",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "15",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "Aleppo pepper flakes",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "red chillies",
+                    "quantity": "4",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Trim the stems and blanch the aubergines 8 minutes — until a knife goes in but they are not soft.",
+                "Slit each one and salt generously inside. Set them cut side down on a tilted surface for 12 hours to drain fully.",
+                "The draining is the whole thing: one drop of water left will grow mould in the jar within a week.",
+                "Mix the walnuts, garlic, Aleppo pepper and salt and pack into each aubergine.",
+                "Layer into a sterilised jar with the chillies between them.",
+                "Pour olive oil to cover completely, and check again after two days. Ready in two weeks. Parve."
+            ],
+            "tags": [
+                "makdous",
+                "aubergine",
+                "preserved",
+                "parve"
+            ]
+        },
+        {
+            "id": "mutabbal-batinjan",
+            "title": "Mutabbal",
+            "originalName": "متبل باذنجان",
+            "description": "Charred aubergine with tahini and lemon, smooth and creamy — with nothing in it that hides the smoke.",
+            "category": "Dips & Salads",
+            "kosherType": "Parve",
+            "image": "images/Mutabbal_Batinjan.jpg",
+            "prepTime": 25,
+            "cookTime": 30,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "aubergines",
+                    "quantity": "3",
+                    "unit": "large"
+                },
+                {
+                    "name": "raw tahini",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic, crushed",
+                    "quantity": "3",
+                    "unit": "cloves"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pomegranate seeds",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh mint",
+                    "quantity": "10",
+                    "unit": "leaves"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Char the aubergines over open flame 20 minutes until the skin blackens and the flesh collapses.",
+                "Peel and drain in a sieve for 40 minutes. That time is the difference between mutabbal and water.",
+                "Mash with a fork, not a processor. A processor turns it into grey foam.",
+                "Add the tahini, lemon, garlic and salt and mix by hand.",
+                "Taste and balance: the tahini should support the smoke, not cover it.",
+                "Drizzle olive oil and scatter pomegranate and mint. Parve."
+            ],
+            "tags": [
+                "mutabbal",
+                "aubergine",
+                "tahini",
+                "parve"
+            ]
+        },
+        {
+            "id": "tabbouleh-halabi",
+            "title": "Aleppo Tabbouleh",
+            "originalName": "تبولة حلبية",
+            "description": "A parsley salad with only a little bulgur — the greens are the dish and the grain is merely present.",
+            "category": "Dips & Salads",
+            "kosherType": "Parve",
+            "image": "images/Tabbouleh_Halabi.jpg",
+            "prepTime": 40,
+            "cookTime": 0,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "parsley",
+                    "quantity": "4",
+                    "unit": "bunches"
+                },
+                {
+                    "name": "fresh mint",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "fine bulgur",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "tomatoes, finely chopped",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "spring onions",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sumac",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Soak the bulgur in the lemon juice alone, not water, for 20 minutes. It takes up the acid and softens.",
+                "Wash the parsley and dry it completely. A wet leaf turns the salad to mush.",
+                "Chop the parsley very fine with a sharp knife. A processor bruises the leaf and releases water.",
+                "Chop the mint, spring onion and tomato equally fine.",
+                "Combine everything with the soaked bulgur, olive oil and sumac.",
+                "Salt only just before serving — salt draws water out of the tomatoes. Parve."
+            ],
+            "tags": [
+                "tabbouleh",
+                "parsley",
+                "parve",
+                "salad"
+            ]
+        },
+        {
+            "id": "fattoush",
+            "title": "Fattoush",
+            "originalName": "فتوش",
+            "description": "A vegetable salad with toasted pita and sumac — the bread goes in last, always.",
+            "category": "Dips & Salads",
+            "kosherType": "Parve",
+            "image": "images/Fattoush.jpg",
+            "prepTime": 25,
+            "cookTime": 10,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "stale pitas",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "cucumbers",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "radishes, sliced",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "spring onions",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley and mint",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "sumac",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "pomegranate molasses and olive oil",
+                    "quantity": "2 tbsp / 1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Tear the pitas by hand and toast at 200°C for 8 minutes until fully crisp.",
+                "Cut the vegetables into coarse chunks — fattoush is a coarse salad, unlike tabbouleh.",
+                "Chop the herbs roughly and add.",
+                "Whisk the pomegranate molasses, olive oil, lemon, sumac and salt into a dressing.",
+                "Pour over the vegetables and toss.",
+                "Add the bread only at serving. Pita that sits in dressing stops being fattoush. Parve."
+            ],
+            "tags": [
+                "fattoush",
+                "sumac",
+                "parve",
+                "salad"
+            ]
+        },
+        {
+            "id": "salatet-bandoura-dibs",
+            "title": "Tomato Salad with Pomegranate Molasses",
+            "originalName": "سلطة بندورة بدبس",
+            "description": "Ripe tomatoes, onion and pomegranate molasses — three ingredients doing all the work.",
+            "category": "Dips & Salads",
+            "kosherType": "Parve",
+            "image": "images/Salatet_Bandoura_Dibs.jpg",
+            "prepTime": 20,
+            "cookTime": 0,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "very ripe tomatoes",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "red onion, thinly sliced",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "Aleppo pepper flakes",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh mint",
+                    "quantity": "15",
+                    "unit": "leaves"
+                },
+                {
+                    "name": "sumac",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cut the tomatoes into thick wedges, not dice — a wedge keeps its juice inside.",
+                "Salt the red onion, leave 10 minutes, then rinse and squeeze.",
+                "Whisk the pomegranate molasses, olive oil, sumac and salt into a dressing.",
+                "Lay the tomatoes on a flat plate and scatter the onion.",
+                "Pour the dressing over without tossing — tossing turns this into pulp.",
+                "Scatter torn mint and Aleppo pepper. Parve."
+            ],
+            "tags": [
+                "tomato",
+                "pomegranate molasses",
+                "parve",
+                "salad"
+            ]
+        },
+        {
+            "id": "zaatar-halabi",
+            "title": "Aleppo Za'atar",
+            "originalName": "زعتر حلبي",
+            "description": "A za'atar blend with pistachio — what tells the Aleppo one apart from every other.",
+            "category": "Dips & Salads",
+            "kosherType": "Parve",
+            "image": "images/Zaatar_Halabi.jpg",
+            "prepTime": 20,
+            "cookTime": 10,
+            "servings": 20,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried ground za'atar leaves",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sesame seeds",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pistachios, coarsely ground",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sumac",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "walnut pieces",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Toast the sesame in a dry pan 4 minutes until golden, shaking constantly.",
+                "Toast the pistachios and walnuts separately for 3 minutes — they burn sooner.",
+                "Cool everything completely before mixing.",
+                "Grind the pistachios and walnuts coarsely in a mortar, not to a powder. The pieces are what identify Aleppo za'atar.",
+                "Mix with the ground za'atar, sumac, cumin and salt.",
+                "Keep sealed up to two months. Served with olive oil and bread. Parve."
+            ],
+            "tags": [
+                "zaatar",
+                "pistachio",
+                "sumac",
+                "parve"
+            ]
+        },
+        {
+            "id": "zeytoun-makbous",
+            "title": "Lemon-Cured Olives",
+            "originalName": "زيتون مكبوس",
+            "description": "Cracked green olives in brine with lemon and Aleppo pepper — three weeks and done.",
+            "category": "Dips & Salads",
+            "kosherType": "Parve",
+            "image": "images/Zeytoun_Makbous.jpg",
+            "prepTime": 40,
+            "cookTime": 0,
+            "servings": 20,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "green olives",
+                    "quantity": "2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemons, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "hot peppers",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "15",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "3",
+                    "unit": "litres"
+                },
+                {
+                    "name": "Aleppo pepper flakes",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Crack each olive with a light tap of a rolling pin — do not cut. A crack opens the olive to the salt without breaking it apart.",
+                "Soak in cold water for five days, changing the water daily. That draws out the bitterness; without it they cannot be eaten.",
+                "Make the brine: 1 cup salt to 3 litres water, boiled. Cool completely.",
+                "Layer the olives, lemon slices, garlic and peppers into a jar.",
+                "Pour the brine to cover and add a layer of olive oil on top — the oil blocks the air.",
+                "Seal and wait 3 weeks. Scatter Aleppo pepper before serving. Parve."
+            ],
+            "tags": [
+                "olives",
+                "cured",
+                "lemon",
+                "parve"
+            ]
+        },
+        {
+            "id": "labneh",
+            "title": "Labneh",
+            "originalName": "لبنة",
+            "description": "Yogurt drained for a day until it spreads like cheese — the base of every breakfast.",
+            "category": "Dips & Salads",
+            "kosherType": "Dairy",
+            "image": "images/Labneh.jpg",
+            "prepTime": 20,
+            "cookTime": 0,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "full-fat yogurt",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil to serve",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "Aleppo za'atar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Stir the salt through the yogurt — the salt is what draws the liquid out, not just seasoning.",
+                "Line a sieve with doubled cheesecloth and pour the yogurt in.",
+                "Tie the cloth into a bundle and hang it over a bowl in the fridge.",
+                "Drain 12 hours for soft labneh, 24 hours for labneh firm enough to roll into balls.",
+                "Turn into a bowl and stir until smooth.",
+                "Drizzle olive oil and scatter za'atar and mint. A dairy dish."
+            ],
+            "tags": [
+                "labneh",
+                "yogurt",
+                "dairy",
+                "breakfast"
+            ]
+        },
+        {
+            "id": "shanklish",
+            "title": "Shanklish",
+            "originalName": "شنكليش",
+            "description": "Aged cheese rolled in za'atar, crumbled with tomato and onion — very sharp.",
+            "category": "Dips & Salads",
+            "kosherType": "Dairy",
+            "image": "images/Shanklish.jpg",
+            "prepTime": 30,
+            "cookTime": 0,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "shanklish cheese",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "tomatoes, finely chopped",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh mint",
+                    "quantity": "15",
+                    "unit": "leaves"
+                },
+                {
+                    "name": "za'atar",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Crumble the shanklish by hand into coarse lumps, not crumbs. The lump is part of the eating.",
+                "Chop the tomato and onion very fine and drain off excess liquid.",
+                "Salt the onion, leave 10 minutes, then squeeze — shanklish is sharp enough without raw onion.",
+                "Fold gently through the cheese without mashing it.",
+                "Add the olive oil and lemon juice.",
+                "Scatter za'atar and torn mint and serve with bread. A dairy dish."
+            ],
+            "tags": [
+                "shanklish",
+                "cheese",
+                "dairy",
+                "aged"
+            ]
+        },
+        {
+            "id": "maamoul-tamer",
+            "title": "Date Ma'amoul",
+            "originalName": "معمول بتمر",
+            "description": "Semolina domes filled with date, stamped in a carved wooden mould — on oil, so they can follow meat.",
+            "category": "Pastries & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Maamoul_Tamer.jpg",
+            "prepTime": 90,
+            "cookTime": 25,
+            "servings": 30,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "coarse semolina",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "fine semolina",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "date paste",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "orange blossom water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "icing sugar to dust",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Rub the coarse and fine semolina together with the oil by hand. Rest overnight, covered — the semolina has to drink the oil and there is no shortcut.",
+                "Next day add the water, rose water and blossom water and knead only lightly.",
+                "Work the date paste with a spoon of oil and roll small balls.",
+                "Take a ball of dough, hollow it, fill with date and seal.",
+                "Stamp in a carved wooden mould and knock it out against the table.",
+                "Bake at 170°C for 22–25 minutes — they must stay pale. Dust with icing sugar once cool. Parve."
+            ],
+            "tags": [
+                "maamoul",
+                "date",
+                "parve",
+                "festive"
+            ]
+        },
+        {
+            "id": "maamoul-fustok",
+            "title": "Pistachio Ma'amoul",
+            "originalName": "معمول بفستق",
+            "description": "The same dough, filled with pistachio and orange blossom — green inside and white out.",
+            "category": "Pastries & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Maamoul_Fustok.jpg",
+            "prepTime": 90,
+            "cookTime": 25,
+            "servings": 28,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "coarse semolina",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "fine semolina",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground pistachios",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "orange blossom water",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "icing sugar",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Make the semolina dough as for the date ma'amoul, including the overnight rest.",
+                "Grind the pistachios fairly coarse — too fine a powder disappears in the mouth.",
+                "Mix with the sugar and blossom water into a damp filling that holds when pressed.",
+                "Fill each ball of dough and stamp in a different mould from the date ones — that is how you tell the filling without breaking one.",
+                "Bake at 170°C for 22 minutes, keeping them pale.",
+                "Cool completely before dusting — warm, they absorb the sugar. Parve."
+            ],
+            "tags": [
+                "maamoul",
+                "pistachio",
+                "parve",
+                "festive"
+            ]
+        },
+        {
+            "id": "karabij-halab",
+            "title": "Karabij Halab with Natef",
+            "originalName": "كرابيج حلب",
+            "description": "Semolina and walnut cookies served in a white natef foam — whipped from soapwort root, and so entirely parve.",
+            "category": "Pastries & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Karabij_Halab.jpg",
+            "prepTime": 100,
+            "cookTime": 25,
+            "servings": 24,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "coarse semolina",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground walnuts",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "soapwort root (erk el-halaweh)",
+                    "quantity": "50",
+                    "unit": "g"
+                },
+                {
+                    "name": "sugar for the natef syrup",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Make the semolina dough and walnut filling, shape elongated fingers and bake at 170°C for 22 minutes.",
+                "The natef is the dish: boil the crushed soapwort root in 3 cups of water for 45 minutes until reduced to one cup.",
+                "Strain well. The brown liquid whips like egg white — that is a property of the root, not of any egg.",
+                "Cook the sugar and water into a thick syrup and cool slightly.",
+                "Whip the soapwort liquid 10 minutes and pour the syrup in a thin stream while whipping, to a stiff white foam.",
+                "Add the rose water. Serve the karabij standing in the natef. Completely parve — no egg and no dairy."
+            ],
+            "tags": [
+                "karabij",
+                "natef",
+                "parve",
+                "aleppo"
+            ]
+        },
+        {
+            "id": "barazek",
+            "title": "Barazek",
+            "originalName": "برازق",
+            "description": "Thin cookies with sesame on one side and pistachio on the other — two textures in one biscuit.",
+            "category": "Pastries & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Barazek.jpg",
+            "prepTime": 50,
+            "cookTime": 20,
+            "servings": 30,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "icing sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sesame seeds",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "pistachios, chopped",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Knead the flour, oil, icing sugar, water and rose water into a soft dough. Chill 30 minutes.",
+                "Mix the sesame with the honey and a little water into a sticky mass.",
+                "Scatter the chopped pistachios on baking paper in small flat heaps.",
+                "Roll small balls of dough, dip one side in the sesame and press the other onto a pistachio heap.",
+                "Set them pistachio side down and flatten very thin.",
+                "Bake at 175°C for 18–20 minutes until the sesame golds. Parve."
+            ],
+            "tags": [
+                "barazek",
+                "sesame",
+                "pistachio",
+                "parve"
+            ]
+        },
+        {
+            "id": "kaak-el-eid",
+            "title": "Ka'ak el-Eid",
+            "originalName": "كعك العيد",
+            "description": "Savoury-sweet rings with sesame and mahlab — eaten with coffee rather than as dessert.",
+            "category": "Pastries & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Kaak_El_Eid.jpg",
+            "prepTime": 70,
+            "cookTime": 25,
+            "servings": 30,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "1.25",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground mahlab",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground fennel",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sesame seeds",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and sugar",
+                    "quantity": "1.5 tsp / 2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Froth the yeast, sugar and water 10 minutes.",
+                "Add flour, oil, mahlab, fennel and salt and knead 8 minutes. Rise 1 hour.",
+                "Roll finger-thick ropes and join into 8 cm rings.",
+                "Dip each ring in water and then in sesame on both sides — the water is the glue.",
+                "Prove on the tray 25 minutes.",
+                "Bake at 190°C for 22–25 minutes until golden. Parve — they keep two weeks sealed."
+            ],
+            "tags": [
+                "kaak",
+                "mahlab",
+                "sesame",
+                "parve"
+            ]
+        },
+        {
+            "id": "naranj-murabba",
+            "title": "Bitter Orange Preserve",
+            "originalName": "مربى نارنج",
+            "description": "Rolls of bitter orange peel tied with thread and cooked in syrup — bitterness turned into sweetness.",
+            "category": "Pastries & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Naranj_Murabba.jpg",
+            "prepTime": 60,
+            "cookTime": 120,
+            "servings": 20,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "bitter (seville) oranges",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cloves",
+                    "quantity": "5",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Lightly grate off the outermost layer of peel — it is too bitter to leave on.",
+                "Peel wide strips, roll each into a tight cylinder and tie with kitchen thread.",
+                "Soak three days in cold water, changing it twice a day. That step decides whether the preserve is bitter or not.",
+                "Boil 20 minutes and drain.",
+                "Cook the sugar, water and cloves into a syrup, add the rolls and cook 90 minutes at the lowest heat.",
+                "Add the lemon juice for the last 10 minutes. The peel turns translucent. Parve."
+            ],
+            "tags": [
+                "preserve",
+                "bitter orange",
+                "parve",
+                "peel"
+            ]
+        },
+        {
+            "id": "balouza",
+            "title": "Balouza",
+            "originalName": "بلوظة",
+            "description": "A half-translucent cornflour and rose-water pudding — a parve dessert that looks like a dairy one.",
+            "category": "Pastries & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Balouza.jpg",
+            "prepTime": 15,
+            "cookTime": 15,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "cornflour",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "orange blossom water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "pistachios, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pomegranate seeds",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Mix the cornflour with one cup of cold water until there are no lumps at all.",
+                "Boil the remaining three cups with the sugar.",
+                "Pour the cornflour mixture in slowly while whisking constantly.",
+                "Cook 8–10 minutes, stirring, until thick and glossy and no longer tasting of starch.",
+                "Off the heat, add the rose water and blossom water.",
+                "Pour into glasses and chill 4 hours. Scatter pistachios and pomegranate. Parve — as sweet as a milk pudding, with no milk."
+            ],
+            "tags": [
+                "balouza",
+                "rose water",
+                "parve",
+                "dessert"
+            ]
+        },
+        {
+            "id": "jallab",
+            "title": "Jallab",
+            "originalName": "جلاب",
+            "description": "A cold drink of date syrup and rose water, with pine nuts and raisins floating on top.",
+            "category": "Pastries & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Jallab.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "jallab syrup (date and grape)",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cold water",
+                    "quantity": "5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "pine nuts",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "golden raisins",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "crushed ice",
+                    "quantity": "",
+                    "unit": "as needed"
+                }
+            ],
+            "instructions": [
+                "Soak the pine nuts in cold water for 30 minutes — they soften and float rather than sink.",
+                "Soak the raisins 15 minutes and drain.",
+                "Mix the jallab syrup with the cold water and rose water.",
+                "Taste and adjust — jallab should be sweet but not thick; it is a drink, not a dessert.",
+                "Fill glasses with crushed ice and pour.",
+                "Scatter the pine nuts and raisins on top. They will float. Parve."
+            ],
+            "tags": [
+                "jallab",
+                "drink",
+                "parve",
+                "summer"
+            ]
+        },
+        {
+            "id": "halawet-el-jibn",
+            "title": "Halawet el-Jibn",
+            "originalName": "حلاوة الجبن",
+            "description": "Rolls of melted cheese dough filled with clotted cream — pink, soft and served cold in syrup.",
+            "category": "Pastries & Sweets",
+            "kosherType": "Dairy",
+            "image": "images/Halawet_El_Jibn.jpg",
+            "prepTime": 40,
+            "cookTime": 20,
+            "servings": 10,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "fresh mozzarella",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "fine semolina",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ashta (clotted cream)",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sugar syrup",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pistachios, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Boil the water and sugar and add the semolina in a thin stream, stirring, for 3 minutes.",
+                "Add the cheese and stir over the lowest heat until it melts into a smooth, stretchy mass, about 8 minutes.",
+                "Turn onto baking paper brushed with rose water and press into a thin sheet while hot — cold, it no longer stretches.",
+                "Cut into strips the width of a palm.",
+                "Lay ashta along each strip and roll up.",
+                "Drizzle syrup, scatter pistachios and chill an hour. A dairy dish — cheese and cream together."
+            ],
+            "tags": [
+                "halawet el-jibn",
+                "cheese",
+                "dairy",
+                "dessert"
+            ]
+        },
+        {
+            "id": "mamounia",
+            "title": "Mamounia",
+            "originalName": "مأمونية",
+            "description": "A buttered semolina porridge served hot for breakfast — Aleppo's oldest sweet.",
+            "category": "Pastries & Sweets",
+            "kosherType": "Dairy",
+            "image": "images/Mamounia.jpg",
+            "prepTime": 10,
+            "cookTime": 25,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "coarse semolina",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "butter",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "white cheese, crumbled",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "cinnamon and pistachio",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Boil the water and sugar into a light syrup and keep it hot.",
+                "Melt the butter in a heavy pot and add the semolina.",
+                "Toast the semolina 10–12 minutes, stirring constantly, until golden-brown and smelling nutty. That step sets the flavour.",
+                "Pour the hot syrup in carefully — it will boil up and spit.",
+                "Stir 5 minutes until thick and pulling from the sides.",
+                "Add the rose water and serve hot with white cheese and cinnamon. Dairy."
+            ],
+            "tags": [
+                "mamounia",
+                "semolina",
+                "dairy",
+                "breakfast"
+            ]
+        }
+    ]
+}
